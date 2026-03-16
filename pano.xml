@@ -106,7 +106,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start pan="-28.4295" fov="100" tilt="-4.95774" projection="4"/>
+      <start pan="-17.3761" fov="100" tilt="-2.87128" projection="4"/>
       <flyin pan="0" fov="170" tilt="-90" projection="9"/>
       <min pan="-180" fovpixel="2" tilt="-60.4952"/>
       <max pan="180" fov="140" fovstereographic="330" fovfisheye="360" tilt="60.4952"/>
@@ -115,6 +115,12 @@
     <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
       <label background="1" bordercolor="0x000000" textalpha="1" borderradius="1" borderalpha="1" width="180" wordwrap="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" height="20" enabled="1"/>
       <polystyle borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" skinid="ht_node" pan="-13.26" target="" title="DCIM\Camera01\IMG_20260315_161436_00_030.ins" description="" tilt="-0.48" url="{node6}"/>
+      <hotspot id="Point02" skinid="ht_node" pan="-2.88" target="" title="DCIM\Camera01\IMG_20260315_161509_00_031.ins" description="" tilt="0.91" url="{node7}"/>
+      <hotspot id="Point03" skinid="ht_node" pan="-351.08" target="" title="DCIM\Camera01\IMG_20260315_161609_00_033.ins" description="" tilt="3.62" url="{node9}"/>
+      <hotspot id="Point04" skinid="ht_node" pan="-174.54" target="" title="DCIM\Camera01\IMG_20260315_161203_00_025.ins" description="" tilt="3.3" url="{node1}"/>
+      <hotspot id="Point06" skinid="ht_node" pan="-160.38" target="" title="DCIM\Camera01\IMG_20260315_161310_00_027.ins" description="" tilt="1.71" url="{node3}"/>
+      <hotspot id="Point05" skinid="ht_node" pan="-91.2" target="" title="DCIM\Camera01\IMG_20260315_161341_00_028.ins" description="" tilt="-8.62" url="{node4}"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomspeed="2" zoomoutpause="1" zoomfov="40" zoomafteroutfov="40" delay="none" blendcolor="0x000000" blendtime="1" softedge="0" zoomafterinfov="140" zoomin="0" zoomout="0" enabled="1"/>
